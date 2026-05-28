@@ -1,0 +1,21 @@
+codigo;nombre;tipo;intensidad;tiempo;descripcion;ultimaSemanaUsado
+1;Trote suave;Cardiovascular;Básico;15;Realizar trote continuo a ritmo cómodo manteniendo respiración controlada;0
+2;Caminata inclinada;Cardiovascular;Básico;20;Caminar en pendiente moderada manteniendo postura erguida;0
+3;Bicicleta estática suave;Cardiovascular;Básico;15;Pedalear a baja resistencia manteniendo ritmo constante;0
+4;Jumping jacks moderados;Cardiovascular;Intermedio;10;Abrir y cerrar piernas y brazos de forma coordinada manteniendo control corporal;0
+5;Skipping bajo;Cardiovascular;Intermedio;12;Elevar rodillas de forma alternada a intensidad media;0
+6;Bicicleta con intervalos;Cardiovascular;Intermedio;18;Alternar pedaleo moderado con tramos de mayor velocidad;0
+7;Burpees controlados;Cardiovascular;Avanzado;12;Realizar flexión y salto controlando la técnica en cada repetición;0
+8;Sprint por intervalos;Cardiovascular;Avanzado;15;Alternar carreras cortas de alta intensidad con pausas activas;0
+9;Circuito HIIT;Cardiovascular;Alto rendimiento;20;Realizar ejercicios cardiovasculares encadenados con descansos breves;0
+10;Saltos al cajón;Cardiovascular;Alto rendimiento;15;Saltar sobre una superficie estable amortiguando correctamente la caída;0
+11;Sentadillas;Fuerza;Básico;12;Flexionar rodillas y cadera manteniendo espalda recta y pies firmes;0
+12;Flexiones apoyadas;Fuerza;Básico;10;Realizar flexiones con rodillas apoyadas manteniendo alineación corporal;0
+13;Plancha frontal;Fuerza;Básico;8;Mantener el cuerpo alineado apoyando antebrazos y puntas de pies;0
+14;Zancadas alternadas;Fuerza;Intermedio;12;Avanzar una pierna y descender controladamente alternando lados;0
+15;Flexiones tradicionales;Fuerza;Intermedio;10;Bajar y subir el cuerpo manteniendo abdomen activo y espalda recta;0
+16;Peso muerto con mancuernas;Fuerza;Intermedio;14;Inclinar el tronco desde la cadera manteniendo espalda neutra;0
+17;Sentadilla con salto;Fuerza;Avanzado;12;Realizar sentadilla y finalizar con salto vertical controlado;0
+18;Dominadas asistidas;Fuerza;Avanzado;15;Elevar el cuerpo usando apoyo parcial y controlando la bajada;0
+19;Flexiones explosivas;Fuerza;Alto rendimiento;12;Ejecutar flexiones con impulso manteniendo control en la recepción;0
+20;Circuito funcional de fuerza;Fuerza;Alto rendimiento;20;Combinar ejercicios de fuerza en estaciones con pausas reducidas;0
